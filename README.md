@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"><img src="./github-images/frontend.jpeg"></img></p>
+<p align="center"><img src="./6d196e37-033f-48bd-8499-155de9201b9e.jpeg"></img></p>
 
 
 ## **Installation**
