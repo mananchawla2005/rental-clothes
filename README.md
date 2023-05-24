@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Wardrobe of Wisdom</h1>
+<h1 align="center" style="font-weight: bold;">Wardrobe on Demand</h1>
 <p align="center">Revolutionizing Fashion with Lightning-Fast Rentals</p>
 
 ---
